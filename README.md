@@ -1,5 +1,5 @@
 ## tmofans-cascade
-Si estás cansado de cambiar de modo "pagiated" a modo "cascade" esta extensión de google chrome te lo hace automaticamente :).
+Si estás cansado de cambiar de modo "paginated" a modo "cascade" esta extensión de google chrome te lo hace automaticamente :).
 
 ### Instalación
 
