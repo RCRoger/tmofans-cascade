@@ -1,0 +1,14 @@
+{
+	"name": "Change paginted to cascade",
+    "version": "1.0",
+	"icons": {
+		"128": "icons/fall.png"
+	},
+    "content_scripts":[
+    	{
+    		"matches" : ["https://tmofans.com/viewer/*"],
+    		"js" : ["src/js/redirect.js"]
+    	}
+    ],
+    "manifest_version": 2
+}
